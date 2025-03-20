@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Apple", "category": "Fruit" },
+    { "id": 2, "name": "Carrot", "category": "Vegetable" },
+    { "id": 3, "name": "Chicken", "category": "Meat" },
+    { "id": 4, "name": "Salmon", "category": "Fish" },
+    { "id": 5, "name": "Almonds", "category": "Nuts" },
+    { "id": 6, "name": "Milk", "category": "Dairy" }
+  ]
+  
